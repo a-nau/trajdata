@@ -34,11 +34,7 @@ Then, download the raw datasets (nuScenes, Lyft Level 5, ETH/UCY, etc.) in case 
 
 ### Package Developer Installation
 
-First, in whichever environment you would like to use (conda, venv, ...), make sure to install all required dependencies with
-```
-pip install -r requirements.txt
-```
-Then, install trajdata itself in editable mode with
+In whichever environment you would like to use (conda, venv, ...), install trajdata in editable mode with
 ```
 pip install -e .
 ```
